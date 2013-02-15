@@ -32,4 +32,4 @@ to search for a document.
 We attempt to achieve this by making use of the [Lesk algorithm](http://en.wikipedia.org/wiki/Lesk_algorithm), 
 the [Vector Space Model](http://en.wikipedia.org/wiki/Vector_space_model), and the [Wordnet project](http://wordnet.princeton.edu/).
 
-It is a bit like, but not quite the same as [Latent Semantic Indexing](http://en.wikipedia.org/wiki/Latent_semantic_indexing).
+This project takes a shallow approach to the problem of [Word Sense Disambiguation](http://en.wikipedia.org/wiki/Word-sense_disambiguation).
